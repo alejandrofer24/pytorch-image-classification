@@ -62,7 +62,7 @@ pytorch-image-classification/
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/pytorch-image-classification.git
+git clone https://github.com/alejandrofer24/pytorch-image-classification.git
 cd pytorch-image-classification
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -78,4 +78,4 @@ jupyter notebook notebooks/
 ## Author
 
 **Alejandro Fernández Trillo** · Mathematics graduate · MSc student in Artificial Intelligence
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+[LinkedIn](https://www.linkedin.com/in/alejandro-fernandez-trillo)
